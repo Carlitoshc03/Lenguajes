@@ -1,0 +1,27 @@
+/* Sirve para cambiar el cuerpo de la pagina tanto el tipo de letra, el color de fondo, y alineación del texto */
+body {
+    font-family: Arial, sans-serif;   
+    margin: 50px;
+    background-color: #000000;
+    text-align: center;
+/* Color del texto  y tipo de fuente */
+}
+h1 {
+    font-family: Arial, sans-serif;
+    color: #868686;
+}
+
+h2{
+    font-family: Arial, sans-serif;
+    color: #960182;
+}
+/* Diseño de los enlaces a los archivos */
+a {
+    padding: 10px 20px;
+    font-size: 16px;
+    color: #000000;
+    background-color: #9c9c9c; 
+    border-radius: 5px;
+    cursor: pointer;
+    text-decoration: none; 
+}
